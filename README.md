@@ -1,5 +1,6 @@
 #### Hey! I'm Chirag 
-_Vellore Institute of Technology_ <br>
-_Gurugram, Haryana_ <br>
-_20_<br>
-_CS, AI/ML, Quant_
+_Learning and making real world projects!_ <br>
+#### Vellore Institute of Technology <br>
+#### Gurugram, Haryana <br>
+#### 20<br>
+#### CS, AI/ML, Quant
