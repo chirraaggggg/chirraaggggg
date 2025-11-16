@@ -1,2 +1,2 @@
 #### Hey! I'm Chirag 
-_Learning and making real world projects!_ <br>
+_Learning and making real world projects!_
