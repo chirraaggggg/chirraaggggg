@@ -1,3 +1,2 @@
-- i am full stack developer
 - i am open to freelancing projects and internship roles
 - checkout my portfolio www.chirags.dev
