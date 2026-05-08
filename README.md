@@ -1,2 +1,1 @@
-- open to freelancing projects and internship roles
 - my portfolio www.chirags.dev
