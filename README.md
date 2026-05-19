@@ -5,7 +5,7 @@ I started coding because I was curious about how things worked. Somewhere along 
 
 Right now, I'm deep into **full-stack development** . I believe good software should feel invisible, it just works, no friction.
 
-<a href="https://twitter.com/nihaliscoding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nihaliscoding" height="30" width="40" /></a>
+<a href="https://twitter.com/chiragiscoding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nihaliscoding" height="30" width="40" /></a>
 
 <div align="center">
   <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGM0dXg5MnF1enN1Z28xd2E5Ymdkcm43MTN3aXlsanlwN2FzbTB3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif"  />
