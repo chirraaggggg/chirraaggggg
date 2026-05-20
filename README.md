@@ -10,5 +10,5 @@ Right now, I'm deep into **full-stack development** . I believe good software sh
 <div align="center">
   <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGM0dXg5MnF1enN1Z28xd2E5Ymdkcm43MTN3aXlsanlwN2FzbTB3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif"  />
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amorex&label=Profile%20views&color=0e75b6&style=flat" alt="amorex" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amorex&label=Profile%20views&color=0e75b6&style=flat" alt="chirraaggggg" /> </p>
 
