@@ -8,10 +8,6 @@ Right now, I’m focused on **full-stack development**, exploring everything fro
 
 Outside of coding, I’m always experimenting with new ideas, participating in hackathons, and learning more about system design, AI, and modern development tools.
 
-<a href="https://twitter.com/chiragiscoding" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chiragiscoding" height="30" width="40" />
-</a>
-
 <div align="center">
   <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGM0dXg5MnF1enN1Z28xd2E5Ymdkcm43MTN3aXlsanlwN2FzbTB3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" />
 </div>
