@@ -1,4 +1,4 @@
-# Hi, I’m Chirag
+# Hi, I’m Chirag Sharma
 
 I build things for the web and AI.
 
