@@ -1,6 +1,6 @@
 # Hi, I’m Chirag Sharma 👋
 
-I build things for the web and AI.
+I build things for the web, mobile, ai.
 
 What started as curiosity about how apps and websites worked slowly turned into an obsession with building products that people actually enjoy using. For me, the best part of coding is shipping something real and seeing others interact with it on the internet.
 
