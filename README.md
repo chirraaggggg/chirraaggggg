@@ -28,7 +28,7 @@ Full Stack Developer • AI Builder • SaaS Founder • Growth Enthusiast 🇮�
 # 🌐 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
+<a href="https://linkedin.com/in/sharmachirag17" target="blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
@@ -36,11 +36,11 @@ Full Stack Developer • AI Builder • SaaS Founder • Growth Enthusiast 🇮�
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
-<a href="https://x.com/YOUR_USERNAME" target="blank">
+<a href="https://x.com/csharmahq" target="blank">
 <img src="https://skillicons.dev/icons?i=twitter" height="45"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:chiragsharma.contact@gmail.com">
 <img src="https://img.icons8.com/fluency/48/gmail.png" height="45"/>
 </a>
 
