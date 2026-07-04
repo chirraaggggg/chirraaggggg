@@ -13,7 +13,7 @@ Full Stack Developer • AI Builder • SaaS Founder • Growth Enthusiast 🇮�
 
 ## 🚀 About Me
 
-- 🎓 B.Tech CSE Student
+- 🎓 B.Tech CSE Student at Vellore Institute of Technology
 - 🚀 Building **Vuno** — AI-powered UI/UX Design Agent
 - 💻 Passionate about **Full Stack Development, AI & SaaS**
 - 📈 Experienced in **Product Growth & Customer Acquisition**
