@@ -12,7 +12,8 @@ chirag@github:~$ cat interests.txt
 
 chirag@github:~$ ls projects
 vuno
-matchmyresume
+gitwhisper
+chess-master
 ...
 
 chirag@github:~$ echo $STATUS
