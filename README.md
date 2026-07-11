@@ -1,9 +1,20 @@
-# chirag
+```console
+chirag@github:~$ whoami
+Software Engineer
 
-$ whoami
+chirag@github:~$ pwd
+India
 
-software engineer
+chirag@github:~$ cat interests.txt
+- Full Stack
+- AI
+- Open Source
 
-$ status
+chirag@github:~$ ls projects
+vuno
+matchmyresume
+...
 
-building.
+chirag@github:~$ echo $STATUS
+Building.
+```
