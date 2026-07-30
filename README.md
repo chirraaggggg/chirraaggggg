@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=45&pause=1000&color=A0A0A0&center=true&vCenter=true&width=600&height=120&lines=Chirag;Software+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=45&pause=1000&color=A0A0A0&center=true&vCenter=true&width=600&height=120&lines=Chirag+Sharma;Software+Engineer" alt="Typing SVG" />
 </div>
 
 <br />
 
 ### 👨‍💻 Introduction
 
-Software Engineer with 2+ years of experience designing and delivering cloud-native security and billing solutions for enterprise platforms serving Fortune 500 customers. Proven ability to own features end-to-end—from architecture and REST API design to deployment and CI/CD automation—leveraging object-oriented languages (Python, Java), Cloud Architecture and modern DevOps practices. Skilled in test-driven development (TDD), data monitoring streams, and automated alerting systems to ensure scalability, reliability, and high availability.
+Software Engineer with 1+ years of experience designing and delivering cloud-native security and billing solutions for enterprise platforms serving Fortune 500 customers. Proven ability to own features end-to-end—from architecture and REST API design to deployment and CI/CD automation—leveraging object-oriented languages (Python, Java), Cloud Architecture and modern DevOps practices. Skilled in test-driven development (TDD), data monitoring streams, and automated alerting systems to ensure scalability, reliability, and high availability.
 
 <br />
 
