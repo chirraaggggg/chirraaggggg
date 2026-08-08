@@ -18,7 +18,7 @@ Software Engineer with 1+ years of experience designing and delivering cloud-nat
 
 <br />
 
-### 🛠️ Tech Stack
+### 🛠️ My Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
