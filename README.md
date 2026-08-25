@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Introduction
 
-Software Engineer with 1+ years of experience designing and delivering cloud-native security and billing solutions for enterprise platforms serving Fortune 500 customers. Proven ability to own features end-to-end—from architecture and REST API design to deployment and CI/CD automation—leveraging object-oriented languages (Python, Java), Cloud Architecture and modern DevOps practices. Skilled in test-driven development (TDD), data monitoring streams, and automated alerting systems to ensure scalability, reliability, and high availability.
+Software Engineer with experience building and shipping software solutions across full-stack development, APIs, and cloud technologies. Strong foundation in data structures, algorithms, and object-oriented programming, with hands-on experience designing scalable applications and automating development workflows. Proven ability to take projects from idea to implementation, with a focus on clean code, problem-solving, system reliability, and continuous learning. Skilled in C++, Python, JavaScript, REST APIs, Git, and modern software development practices.
 
 <br />
 
