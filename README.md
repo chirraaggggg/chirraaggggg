@@ -13,7 +13,6 @@ Software Engineer with experience building and shipping software solutions acros
 <p align="center" style="text-align: center;">
   <a href="https://linkedin.com/in/sharmachirag17"><img height="28" style="display: inline-block !important;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;
   <a href="https://x.com/chiragdotxyz"><img height="28" style="display: inline-block !important;" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>&nbsp;&nbsp;
-  <a href="https://youtube.com/@chiragdotxyz"><img height="28" style="display: inline-block !important;" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 </p>
 
 <br />
